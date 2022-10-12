@@ -1,0 +1,5 @@
+Cython==3.0.0a11
+PySDL2==0.9.14
+pysdl2-dll==2.24.0
+rubato==0.3.4.dev5
+yapf==0.32.0
